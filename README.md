@@ -43,11 +43,6 @@ The dataset contains **54 features**, including:
 ## 🚀 How to Use
 
 1. **Clone or download this repository**  
-2. Install dependencies:  
-   ```bash
-   pip install pandas numpy scikit-learn seaborn matplotlib xgboost
-   ```
-1. **Clone or download this repository**.
 2. **Open the provided Google Colab notebook**.
 3. **Upload the dataset**:
    - Download the dataset file `covtype.data` (attached in this repo).
@@ -63,8 +58,8 @@ The dataset contains **54 features**, including:
 - **Classes:** 7 forest cover types
 - **Samples:** 581,012
 - **Features:** 54 cartographic variables
+- The dataset file `covtype.data` is included in this repository.
 
-The dataset file `covtype.data` is included in this repository.
 ---
 
 ## 🧠 Motivation
