@@ -45,7 +45,7 @@ The dataset contains **54 features**, including:
 1. **Clone or download this repository**  
 2. **Open the provided Google Colab notebook**.
 3. **Upload the dataset**:
-   - Download the dataset file `covtype.data` (attached in this repo).
+   - Download the dataset file `covtype.data` (unzip the zip attached in this repo).
    - In Colab, upload it.
 4. The notebook will handle data preprocessing, model training, and evaluation.
 
@@ -58,7 +58,7 @@ The dataset contains **54 features**, including:
 - **Classes:** 7 forest cover types
 - **Samples:** 581,012
 - **Features:** 54 cartographic variables
-- The dataset file `covtype.data` is included in this repository.
+- The dataset file `covtype.data` is included in this repository in the zip file.
 
 ---
 
